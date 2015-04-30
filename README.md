@@ -26,7 +26,7 @@ variance.calc(data); // → 8.25
 
 Type: `array`
 
-The data to be analysed; an array of numbers.
+The data to be analysed; an array of numbers considered as the entire *population*. The following formula is used for calculation http://en.wikipedia.org/wiki/Variance#Population_variance.
 
 ## License
 MIT &copy; [Michał Jezierski](https://pl.linkedin.com/in/jezierskimichal)
